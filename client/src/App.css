@@ -79,7 +79,7 @@ textarea {
 }
 
 textarea::placeholder {
-  color: #ccc;
+  color: black;
 }
 
 .analyze-btn {
